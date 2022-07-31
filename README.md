@@ -45,7 +45,7 @@ source in-toto-demo/bin/activate
 
 ```bash
 # Fetch the demo repo using git
-git clone https://github.com/Rushijaviya/Object-Tracking.git
+git clone https://github.com/yashbhimani10/Real-Time-Object-Detection.git
 
 # Change into the demo directory
 cd ObjectTracking
